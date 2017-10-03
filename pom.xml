@@ -2263,7 +2263,7 @@
           <relocations>
             <relocation>
               <pattern>org.eclipse.jetty</pattern>
-              <shadedPattern>${spark.shade.packageName}.jetty_shade</shadedPattern>
+              <shadedPattern>${spark.shade.packageName}.zetaris_shade</shadedPattern>
               <includes>
                 <include>org.eclipse.jetty.**</include>
               </includes>
